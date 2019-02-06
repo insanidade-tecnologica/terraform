@@ -2,12 +2,12 @@
 
 variable "vsphere_user" {
   description = "vSphere user name"
-  default = "marcelo.bomfim@stn.intra"
+  default = "user.name@intra"
 }
 
 variable "vsphere_password" {
   description = "vSphere password"
-  default = "Filtro907!"
+  default = "****"
 }
 
 variable "vsphere_vcenter" {
